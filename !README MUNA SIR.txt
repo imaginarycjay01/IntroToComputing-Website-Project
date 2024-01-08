@@ -7,6 +7,5 @@ to my mind, i google it and implement it. To be honest I don't really know how I
 copied every steps made by those indian youtubers I followed. But hey, as long as the output from my thoughts came up fine. Or was it?
 >> To provide you a little peace of my despair, this project is my 6th attempt, I tried making my own
 css files/library but making it responsive is really tough! This time I used bootstrap and watched bunch of
-tutorials to make this project possible. This is not the process that I really want, but since I'm running
-out of time because of... you know, new year, christimas eve and stuff.
->> Hope you like it sir!
+tutorials to make this project possible.
+>> Hope you like it sir! Please provide a feedback on VLE.
